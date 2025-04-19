@@ -1,0 +1,1 @@
+This Debian 12 project consists of a Sleep config file, as well as some simple Bash scripts that move the file around so that it is or isn't detected by the OS. In my experience, the changes take effect immediately; so you should be able to issue the suspend or hibernate command, or let the system go into one of those states on its own.
